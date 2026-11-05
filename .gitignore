@@ -1,9 +1,27 @@
+# PlatformIO build artifacts
 .pio/
-.vscode/
-__pycache__/
 *.elf
 *.bin
 *.map
 *.hex
 compile_commands.json
+
+# VS Code / IDE
+.vscode/
+!.vscode/extensions.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
