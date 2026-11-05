@@ -25,6 +25,6 @@ Thumbs.db
 
 # Logs
 *.log
-.test/
-.vscode/
-.lib/
+test/
+vscode/
+lib/
