@@ -10,7 +10,6 @@
             "includePath": [
                 "/home/fl4vum/openrouter-app/robotik/KRAI/2026/Kontroller/include",
                 "/home/fl4vum/openrouter-app/robotik/KRAI/2026/Kontroller/src",
-                "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32-esp32-libs/dio_qspi/include",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32-esp32-libs/include/newlib/platform_include",
@@ -328,6 +327,7 @@
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
+                "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/Console/src",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src",
                 "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
@@ -375,7 +375,6 @@
                 "path": [
                     "/home/fl4vum/openrouter-app/robotik/KRAI/2026/Kontroller/include",
                     "/home/fl4vum/openrouter-app/robotik/KRAI/2026/Kontroller/src",
-                    "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32-esp32-libs/dio_qspi/include",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32-esp32-libs/include/newlib/platform_include",
@@ -693,6 +692,7 @@
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
+                    "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/Console/src",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src",
                     "/home/fl4vum/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",

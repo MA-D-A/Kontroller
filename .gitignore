@@ -1,1 +1,9 @@
-.pio
+.pio/
+.vscode/
+__pycache__/
+*.elf
+*.bin
+*.map
+*.hex
+compile_commands.json
+.DS_Store
